@@ -138,4 +138,4 @@ You should configure your Firestore based on the provided objects in `settings.j
 ## Final thoughts
 If you've made it this far, then thanks for sticking around! If you found this project useful or you have any feedback you can reach me on [Twitter](https://twitter.com/tj_cages). Hope you enjoy!! 🎉🎉
 
-Built by [Tyler J. ✌️](https://tylerj.me)
+Built by [Tyler J. ✌️](https://tylerj.me)# curated
